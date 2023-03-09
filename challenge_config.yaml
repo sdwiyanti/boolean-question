@@ -1,4 +1,4 @@
-title: Random Number Generator Challenge
+title: BoolQ Challenge: Complex Yes/No Questions with Passages
 short_description: Random number generation challenge for each submission
 description: templates/description.html
 evaluation_details: templates/evaluation_details.html
