@@ -25,7 +25,7 @@ leaderboard:
           "Score": {
             "sort_ascending": False,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          }
+          } } }
 
 challenge_phases:
   - id: 1
